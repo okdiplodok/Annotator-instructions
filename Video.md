@@ -6,11 +6,12 @@
 <h1><strong>Steps</strong></h1>
 
 <ol>
-	<li>Please <strong>mute the sound on your computer.&nbsp;</strong>The following test concerns facial emotions, hence the audio cue should be not presented. The default configuration of our video player is also muted. Please <strong>do NOT unmute</strong> the video player in the questionnaire.</li>
+	<li>The default configuration of our video player is muted. Since your task concerns the annotation of facial emotions, the audio cue should be not presented. If you hear any sound from the video player, please <strong>mute the sound on your computer.&nbsp;</strong>.</li>
 	<li>Watch the video fragment until the end.</li>
 	<li>If there is &nbsp;only <strong><u>one face</u></strong> which appears in the video fragment, evaluate the facial emotion and select the appropriate emotion label.</li>
-	<li>If there is <u><strong>more than one face</strong></u> appearing in the video fragment or <u><strong>no face</strong></u> at all, tick the corresponding boxes in the questionnaire ("More than one visible face").</li>
+	<li>If there is <u><strong>more than one face</strong></u> appearing in the video fragment or <u><strong>no face</strong></u> at all, tick the corresponding boxes in the questionnaire ("More than one visible face" or "No face in the whole video").</li>
 	<li>If you see a blend of different emotions in one fragment (for example, surprise on the face is replaced by anger), chose the option "Multiple (non-neutral) emotions".&nbsp;</li>
+	<li>Sometimes when the video is too short (i.e. less than 2 seconds), the video player does not show the picture at all. If you see a white screen through the whole video fragment, tick "Problems with video playback".&nbsp;</li>
 </ol>
 <hr>
 

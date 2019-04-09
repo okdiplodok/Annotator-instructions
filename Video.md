@@ -33,7 +33,10 @@
 	<li>Do not overthink it: do not spend minutes on assessing the fragment after watching.&nbsp;</li>
 </ul>
 
-<p>
-	<br>
-</p>
+<p><strong>Example:</strong></p>
+
+<p>Take a look at the annotation example.</p>
+
+<p><img src="/video_example.png"></p>
+
 

@@ -11,7 +11,7 @@ Something like this:
 Follow the instruction from Labelbox to set your account. 
 Unless you have a very old version of your browser, the web interface of the questionnaire should work just fine.  
 
-**I strongly recommend you to work in _full screen mode_ of your browser.**
+**I strongly recommend you to work in _full screen_ mode of your browser.**
 
 ## Depending on the task you are assigned to, read the corresponding list of instructions.
 *Do not start annotating before you read the instructions!*

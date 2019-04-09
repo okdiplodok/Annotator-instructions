@@ -10,7 +10,7 @@ Something like this:
 
 Follow the instruction from Labelbox to set your account.  
 
-## Depending on the task you are assigned to read the corresponding list of instructions.
+## Depending on the task you are assigned to, read the corresponding list of instructions.
 *Do not start annotating before you read the instructions!*
 
 Task | Link

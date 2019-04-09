@@ -22,7 +22,7 @@
 <ul>
 	<li>Assign the emotion labels based on the <strong>facial expressions.&nbsp;</strong></li>
 	<li><strong>Attention!&nbsp;</strong>If you see more than one person in the video fragment, but you base your annotation solely on one person (i.e. you can only see the other people's backs, their faces are hidden from the camera), you should not do Step 4.</li>
-	<li>Be very careful with Step 5. If you see a neutral expression changing into a non-neutral, emotional face, choose the corresponding emotion label and <strong>do NOT tick</strong> "Multiple (non-neutral) emotions" box. This annotation is about overall emotional perception that the faces in the video leaves you with.&nbsp;</li>
+	<li>Be very careful with Step 5. If you see a neutral expression changing into a non-neutral, emotional face, choose the corresponding emotion label and <strong>do NOT tick</strong> "Multiple (non-neutral) emotions" box. This annotation is about overall emotional perception that the face in the video leaves you with.&nbsp;</li>
 </ul>
 
 <p><strong>Tips</strong>:</p>

@@ -31,6 +31,7 @@
 	<li>Make sure to watch the whole fragment before answering!</li>
 	<li>If and only if you cannot assign one of the given labels or when the video fragment is very confusing, then use the option "I can't decide".&nbsp;</li>
 	<li>Do not overthink it: do not spend minutes on assessing the fragment after watching.&nbsp;</li>
+	<li>If you have any comments on a particular video fragment that you think I will need for my analysis (i.e. there is a noise in the data that I didn't mention in the questionnaire, there is a systematic noise in your batch and etc.), then feel free to write them down in the comment section.&nbsp;</li>
 </ul>
 
 <p><strong>Example:</strong></p>

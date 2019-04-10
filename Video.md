@@ -10,7 +10,7 @@
 	<li>Watch the video fragment until the end.</li>
 	<li>If there is &nbsp;only <strong><u>one face</u></strong> which appears in the video fragment, evaluate the facial emotion and select the appropriate emotion label.</li>
 	<li>If there is <u><strong>more than one face</strong></u> appearing in the video fragment or <u><strong>no face</strong></u> at all, tick the corresponding boxes in the questionnaire ("More than one visible face" or "No face in the whole video").</li>
-	<li>If you see a blend of different emotions in one fragment (for example, surprise on the face is replaced by anger), chose the option "Multiple (non-neutral) emotions".&nbsp;</li>
+	<li>If you see a blend of different emotions in one fragment (for example, surprise on the face is replaced by anger), choose the option "Multiple (non-neutral) emotions".&nbsp;</li>
 	<li>Sometimes when the video is too short (i.e. less than 2 seconds), the video player does not show the picture at all. If you see a white screen through the whole video fragment, tick "Problems with video playback".&nbsp;</li>
 </ol>
 <hr>

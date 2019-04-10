@@ -8,7 +8,7 @@
 <ol>
 	<li>Read the text fragment until the end.</li>
 	<li>If you think that there are <strong><u>multiple people</u></strong> speaking in the text fragment, tick the corresponding box in the questionnaire ("Multiple people talking in the sub").</li>
-	<li>If you see a blend of different emotions in one fragment (for example, surprise is replaced by anger), chose the option "Multiple (non-neutral) emotions".&nbsp;</li>
+	<li>If you see a blend of different emotions in one fragment (for example, surprise is replaced by anger), choose the option "Multiple (non-neutral) emotions".&nbsp;</li>
 </ol>
 <hr>
 

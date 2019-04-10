@@ -1,6 +1,6 @@
 <h1><strong>Overview</strong></h1>
 
-<p>Help us determine emotion depicted in a fragment which combines video with a textual subtitle. <br>
+<p>Help us determine emotion depicted in a fragment which combines a video with a textual subtitle. <br>
 Please read the instructions below carefully.&nbsp;</p>
 <hr>
 

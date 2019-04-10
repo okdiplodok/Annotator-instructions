@@ -28,6 +28,7 @@
 	<li>Make sure to read the whole fragment before answering!</li>
 	<li>If and only if you cannot assign one of the given labels, or when the text fragment is very confusing, then use the option "I can't decide".&nbsp;</li>
 	<li>Do not overthink it: do not spend minutes on assessing the fragment after reading.</li>
+	<li>If you want to quit before your batch is complete, you can do it by clicking on the :house: button. Your answers will still be registered.</li>
 </ul>
 
 <p><strong>Example:</strong></p>

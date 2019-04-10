@@ -7,7 +7,7 @@ Please read the instructions below carefully.&nbsp;</p>
 <h1><strong>Steps</strong></h1>
 
 <ol>
-	<li>The default configuration of our video player is muted. If you hear any sound from the video player, please <strong>mute the sound on your computer.&nbsp;</strong>.</li>
+	<li>The default configuration of our video player is muted. If you hear any sound from the video player, please <strong>mute the sound on your computer.&nbsp;</strong></li>
 	<li>Watch the video fragment until the end and read the subtitle.</li>
 	<li>If there is &nbsp;only <strong><u>one face</u></strong> which appears in the video fragment, evaluate the emotion of the fragment and select the appropriate emotion label.</li>
 	<li>If there is <u><strong>more than one face</strong></u> appearing in the video fragment or <u><strong>no face</strong></u> at all, tick the corresponding boxes in the questionnaire ("More than one visible face" or "No face in the whole video").</li>

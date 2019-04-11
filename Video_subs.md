@@ -10,7 +10,7 @@ Please read the instructions below carefully.&nbsp;</p>
 	<li>The default configuration of our video player is muted. If you hear any sound from the video player, please <strong>mute the sound on your computer.&nbsp;</strong></li>
 	<li>Watch the video fragment until the end and read the subtitle. It does not matter in which order you do it, as long as you base your annotation on BOTH video and text. Probably, it is more convenient to get to know what a person is talking about first.</li>
 	<li>If there is <u><strong>more than one face</strong></u> appearing in the video fragment or <u><strong>no face</strong></u> at all, tick the corresponding boxes in the questionnaire ("More than one visible face" or "No face in the whole video").</li>
-	<li>If you see a blend of different emotions in one fragment (for example, surprise on the face or in the text is replaced by anger), choose the option "Multiple (non-neutral) emotions".&nbsp;</li>
+	<li>If you see a blend of different emotions in one fragment (for example, surprise on the face or in the text is replaced by anger), choose the option "Multiple non-neutral emotions".&nbsp;</li>
   <li>If you think that there are <strong><u>multiple people</u></strong> speaking in the text fragment, tick the corresponding box in the questionnaire ("Multiple people talking in the sub").</li>
 	<li>Sometimes when the video is too short (i.e. less than 2 seconds), the video player does not show the picture at all. If you see a white screen through the whole video fragment, tick "Problems with video playback".&nbsp;</li>
   <li>Due to some possible errors in my preprocessing, an empty subtitle or a subtitle with a word part that does not make any sense might appear on the screen. If this happens, tick the "No text in the annotation object" box.</li>
@@ -26,7 +26,7 @@ Please read the instructions below carefully.&nbsp;</p>
 <ul>
 	<li>Assign the emotion labels based on the <strong>both facial expressions and text.&nbsp;</strong></li>
 	<li><strong>Attention!&nbsp;</strong>If you see more than one person in the video fragment, but you base your annotation solely on one person (i.e. you can only see the other people's backs/their faces are hidden from the camera), you should <strong>NOT tick</strong> "More than one visible face" box.</li>
-	<li>Be very careful with Step 5. If you see a neutral expression changing into a non-neutral, emotional face, choose the corresponding emotion label and <strong>do NOT tick</strong> "Multiple (non-neutral) emotions" box. This annotation is about overall emotional perception that the face in the video leaves you with.&nbsp;</li>
+	<li>Be very careful with Step 5. If you see a neutral expression changing into a non-neutral, emotional face, choose the corresponding emotion label and <strong>do NOT tick</strong> "Multiple non-neutral emotions" box. This annotation is about overall emotional perception that the face in the video leaves you with.&nbsp;</li>
 </ul>
 
 <p><strong>Tips</strong>:</p>

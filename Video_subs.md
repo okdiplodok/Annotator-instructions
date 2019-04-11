@@ -9,7 +9,6 @@ Please read the instructions below carefully.&nbsp;</p>
 <ol>
 	<li>The default configuration of our video player is muted. If you hear any sound from the video player, please <strong>mute the sound on your computer.&nbsp;</strong></li>
 	<li>Watch the video fragment until the end and read the subtitle. It does not matter in which order you do it, as long as you base your annotation on BOTH video and text. Probably, it is more convenient to get to know what a person is talking about first.</li>
-	<li>If there is &nbsp;only <strong><u>one face</u></strong> which appears in the video fragment, evaluate the emotion of the fragment and select the appropriate emotion label.</li>
 	<li>If there is <u><strong>more than one face</strong></u> appearing in the video fragment or <u><strong>no face</strong></u> at all, tick the corresponding boxes in the questionnaire ("More than one visible face" or "No face in the whole video").</li>
 	<li>If you see a blend of different emotions in one fragment (for example, surprise on the face or in the text is replaced by anger), choose the option "Multiple (non-neutral) emotions".&nbsp;</li>
   <li>If you think that there are <strong><u>multiple people</u></strong> speaking in the text fragment, tick the corresponding box in the questionnaire ("Multiple people talking in the sub").</li>
